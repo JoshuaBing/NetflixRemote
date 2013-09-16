@@ -1,0 +1,7 @@
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\bin\Debug\NetflixServer.exe
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\bin\Debug\NetflixServer.pdb
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\obj\x86\Debug\NetflixServer.Form1.resources
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\obj\x86\Debug\NetflixServer.Properties.Resources.resources
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\obj\x86\Debug\NetflixServer.csproj.GenerateResource.Cache
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\obj\x86\Debug\NetflixServer.exe
+c:\users\joshua.bing\documents\visual studio 2010\Projects\NetflixServer\NetflixServer\obj\x86\Debug\NetflixServer.pdb
